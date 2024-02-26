@@ -57,7 +57,7 @@ section{  /* section geral */
     line-height: 2em; /*espaçamento entre as linhas*/
     padding-left: 30px;
     font-family: var(--fonte3);
-    font-size: 2.5vw;
+    font-size: 3vw;
 }
 
 section > p {
@@ -87,17 +87,13 @@ section.imagem > p {  /* caixa separada dentro do section */
 }
 
 section#img01 {
-    background-image: url('../imagens/background001.jpg');
-    background-position: right center;
-    
+    background-image: url('../imagens/background001.jpg'); 
 
 }
 
 section#img02 {
     background-image: url('../imagens/background002.jpg');
-    background-position: right bottom;
     
-
 }
 
 footer{
