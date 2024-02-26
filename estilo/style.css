@@ -57,7 +57,7 @@ section{  /* section geral */
     line-height: 2em; /*espaçamento entre as linhas*/
     padding-left: 30px;
     font-family: var(--fonte3);
-    font-size: 2vw;
+    font-size: 2.5vw;
 }
 
 section > p {
